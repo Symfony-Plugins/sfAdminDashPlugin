@@ -1,5 +1,11 @@
 @import url('global.css');
 
+div.color-thumb {
+    border:1px solid #CCCCCC;
+    height:20px;
+    width:200px;
+}
+
 #sf_admin_path a, #logout a {
   color: #C64934;
   text-decoration: none;
